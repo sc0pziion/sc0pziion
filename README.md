@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">A French Engineering Student !</h3>
 
-<!--
-**sc0pziion/sc0pziion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **JavaScript** / **IA developpment**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **Discord - sc0pziion#0**
+
+- 📄 Know about my experiences **on this page**
+
+<br>
+<h3 align="left">Languages and Tools:</h3>
+
+- Language
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,java" />
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
+  </a>
+</p>
+
+- Tool
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,linux" />
+  </a>
+</p>
+<br/>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/Zp8eKzaATk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a> <br>sc0pziion#0<br/>
