@@ -15,7 +15,7 @@
 - Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,bots,nodejs" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,nodejs,js" />
 
   </a>
 </p>
