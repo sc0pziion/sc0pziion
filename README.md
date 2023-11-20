@@ -39,4 +39,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Zp8eKzaATk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a> <br>sc0pziion#0<br/>
+<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a> <br>sc0pziion#0<br/>
