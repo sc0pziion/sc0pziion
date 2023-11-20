@@ -15,10 +15,17 @@
 - Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,java" />
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,nodejs" />
+
   </a>
 </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>raspberrypi
 
 - Tool
 <p align="left">
