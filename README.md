@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java" />
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
-</p>raspberrypi
+</p>
 
 - Tool
 <p align="left">
